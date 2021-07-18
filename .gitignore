@@ -5,6 +5,6 @@ __pycache__/
 .env
 .venv
 .vscode
-env/
-venv/
+env
+venv
 media/
